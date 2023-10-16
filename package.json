@@ -1,25 +1,14 @@
 {
-  "name": "unzipper",
+  "name": "unzipper-lite",
   "version": "0.10.14",
-  "description": "Unzip cross-platform streaming API ",
-  "author": "Evan Oxfeld <eoxfeld@gmail.com>",
-  "contributors": [
-    {
-      "name": "Ziggy Jonsson",
-      "email": "ziggy.jonsson.nyc@gmail.com"
-    },
-    {
-      "name": "Evan Oxfeld",
-      "email": "eoxfeld@gmail.com"
-    },
-    {
-      "name": "Joe Ferner",
-      "email": "joe.ferner@nearinfinity.com"
-    }
-  ],
+  "description": "Fork of ZJONSSON/node-unzipper without bluebird",
+  "author": {
+    "name": "Evgeny Abramovich",
+    "email": "evg.abramovitch@gmail.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZJONSSON/node-unzipper.git"
+    "url": "https://github.com/evg4b/node-unzipper-lite.git"
   },
   "license": "MIT",
   "dependencies": {
