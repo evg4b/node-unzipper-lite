@@ -1,6 +1,6 @@
 {
   "name": "unzipper-lite",
-  "version": "0.10.14",
+  "version": "0.1.0",
   "description": "Fork of ZJONSSON/node-unzipper without bluebird",
   "author": {
     "name": "Evgeny Abramovich",
@@ -14,7 +14,6 @@
   "dependencies": {
     "big-integer": "^1.6.17",
     "binary": "~0.3.0",
-    "bluebird": "~3.4.1",
     "buffer-indexof-polyfill": "~1.0.0",
     "duplexer2": "~0.1.4",
     "fstream": "^1.0.12",

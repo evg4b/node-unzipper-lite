@@ -6,3 +6,6 @@ remove the bluebird dependency from package.
 For more information and refer to [original repo](https://github.com/ZJONSSON/node-unzipper).
 
 
+Version mappings:
+
+- 0.1.0 -> 0.10.14
